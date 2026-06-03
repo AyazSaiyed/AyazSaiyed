@@ -14,11 +14,9 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
-&nbsp;&nbsp;Hi! I'm **Ayaz Saiyed**, a **Team Lead / Python / AI Engineer** with **7+ years of experience**  
-&nbsp;&nbsp;in **backend engineering**, **cloud architecture**, and **AI-powered product development**.
-
-&nbsp;&nbsp;I am closely associated with **Yudiz Solutions Limited**, where I have worked across  
-&nbsp;&nbsp;enterprise systems, SaaS platforms, AI solutions, cloud-native applications, and client delivery.
+Hi! I'm **Ayaz Saiyed**, a **Team Lead / Python / AI Engineer** with **7+ years of experience** in **backend engineering**, **cloud architecture**, and **AI-powered product development**.
+<br/><br/>
+I am closely associated with **Yudiz Solutions Limited**, where I have worked across enterprise systems, SaaS platforms, AI solutions, cloud-native applications, and client delivery.
 
 <br/>
 

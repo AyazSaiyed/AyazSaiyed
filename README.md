@@ -15,7 +15,9 @@
 <img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
 Hi! I'm **Ayaz Saiyed**, a **Team Lead / Python / AI Engineer** with **7+ years of experience** in **backend engineering**, **cloud architecture**, and **AI-powered product development**.
+
 <br/><br/>
+
 I am closely associated with **Yudiz Solutions Limited**, where I have worked across enterprise systems, SaaS platforms, AI solutions, cloud-native applications, and client delivery.
 
 <br/>
@@ -171,7 +173,10 @@ I am closely associated with **Yudiz Solutions Limited**, where I have worked ac
 
 <table>
 <tr>
-<td width="100%">
+<td width="22%" align="center">
+  <img src="https://res.cloudinary.com/darkworldfacerecognition/image/upload/v1780565362/yudizlogo_kt9u1y.jpg" width="140" alt="Yudiz Solutions Logo"/>
+</td>
+<td width="78%">
 
 <h2 align="center"><b><i>Yudiz Solutions Limited</i></b></h2>
 
@@ -215,12 +220,15 @@ I have also gained strong **enterprise and MNC project exposure** by contributin
 
 <table>
 <tr>
-<td width="100%">
+<td width="22%" align="center">
+  <img src="https://res.cloudinary.com/darkworldfacerecognition/image/upload/v1780565352/experian_yyujek.png" width="150" alt="Experian Logo"/>
+</td>
+<td width="78%">
 
 <h2 align="center"><b><i>Experian</i></b></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engagement-Worked%20On%20Conract%20-6366f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engagement-Worked%20On%20Contract-6366f1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Role-Senior%20DevOps%20Engineer%20%2F%20Python%20Engineer-f97316?style=for-the-badge"/>
 </p>
 
@@ -228,7 +236,7 @@ I have also gained strong **enterprise and MNC project exposure** by contributin
   <b><i>Python • AWS ECS • Elasticsearch • CloudWatch • S3 • EC2 • Jenkins • Redis • Kafka • RabbitMQ</i></b>
 </p>
 
-Worked as an outsourced engineering resource through **Yudiz Solutions**, contributing to automation, cloud infrastructure, CI/CD pipelines, and event-driven log processing systems.
+Worked as an outsourced engineering resource, contributing to automation, cloud infrastructure, CI/CD pipelines, and event-driven log processing systems.
 
 Built Python automation scripts, supported AWS infrastructure, managed scalable workflows, and worked on real-time monitoring systems. Also contributed to AI-assisted anomaly detection, Elasticsearch monitoring, and remediation workflows to reduce manual intervention and improve incident response.
 
@@ -240,12 +248,15 @@ Built Python automation scripts, supported AWS infrastructure, managed scalable 
 
 <table>
 <tr>
-<td width="100%">
+<td width="22%" align="center">
+  <img src="https://res.cloudinary.com/darkworldfacerecognition/image/upload/v1780564692/hdfc-life-logo-png_seeklogo-304905_y91gyf.png" width="150" alt="HDFC Life Logo"/>
+</td>
+<td width="78%">
 
 <h2 align="center"><b><i>HDFC Life Insurance</i></b></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engagement-Worked%20On%20Conract%20-6366f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engagement-Worked%20On%20Contract-6366f1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-34d399?style=for-the-badge"/>
 </p>
 
@@ -253,7 +264,7 @@ Built Python automation scripts, supported AWS infrastructure, managed scalable 
   <b><i>Python • AWS Lambda • API Gateway • Athena • DynamoDB • Elasticsearch</i></b>
 </p>
 
-Worked as an outsourced backend engineer through **Yudiz Solutions** on a cross-platform insurance application focused on lead generation, meeting scheduling, and insurance plan management.
+Worked as an outsourced backend engineer on a cross-platform insurance application focused on lead generation, meeting scheduling, and insurance plan management.
 
 Contributed to serverless backend development using AWS Lambda and API Gateway, implemented business logic, supported production issues, and helped build scalable backend flows for enterprise insurance operations.
 
@@ -265,12 +276,15 @@ Contributed to serverless backend development using AWS Lambda and API Gateway, 
 
 <table>
 <tr>
-<td width="100%">
+<td width="22%" align="center">
+  <img src="https://res.cloudinary.com/darkworldfacerecognition/image/upload/v1780566100/idgxUWy_iA_1780565788420_jebbvk.png" width="150" alt="HDFC Life Logo"/>
+</td>
+<td width="78%">
 
 <h2 align="center"><b><i>Angel One Broking</i></b></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engagement-Worked%20On%20Conract%20-6366f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engagement-Worked%20On%20Contract-6366f1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Role-Backend%20Developer-ff6fd8?style=for-the-badge"/>
 </p>
 
@@ -278,7 +292,7 @@ Contributed to serverless backend development using AWS Lambda and API Gateway, 
   <b><i>Python • Go • AWS Lambda • EventBridge • CloudWatch • Real-time Market Data</i></b>
 </p>
 
-Worked as an outsourced backend developer through **Yudiz Solutions** on a market charting platform handling real-time and historical data across NSE, BSE, NCDEX, Currency, and Equity segments.
+Worked as an outsourced backend developer on a market charting platform handling real-time and historical data across NSE, BSE, NCDEX, Currency, and Equity segments.
 
 Designed and supported backend components for market data processing, collaborated with multiple teams for change requests, and developed data validation frameworks to ensure segment-level data accuracy before production releases.
 
